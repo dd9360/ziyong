@@ -76,6 +76,13 @@ DOMAIN-SUFFIX,wxapp.tc.qq.com
 DOMAIN-SUFFIX,wxs.qq.com
 DOMAIN-SUFFIX,yun-hl.3g.qq.com
 IP-ASN,132203,no-resolve
+# DDNSTO
+DOMAIN-SUFFIX,tunnel.ddnsto.com
+DOMAIN-SUFFIX,tunnel.kooldns.cn
+DOMAIN-SUFFIX,tunnel.tocmcc.cn
+DOMAIN-SUFFIX,www.kooldns.cn
+DOMAIN-SUFFIX,www.tocmcc.cn
+DOMAIN-SUFFIX,www.ddnsto.com
 
 # wangyiyinyue
 # NAME: NetEaseMusic
